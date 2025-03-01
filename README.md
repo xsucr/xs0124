@@ -1,4 +1,4 @@
-# XS0124: Análisis Exploratorio de Datos
+# XS0124 - Análisis Exploratorio de Datos
 
 Resumen del curso **XS0124: Análisis Exploratorio de Datos**. Acá comparto lo que voy aprendiendo,
 con el objetivo de hacer accesible para todos el contenido del curso. Aunque originalmente es un 
