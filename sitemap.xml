@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://xsucr.github.io/xs0124/clases/semana_3.html</loc>
+    <lastmod>2025-03-01T04:09:03.186Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xsucr.github.io/xs0124/clases/semana_1.html</loc>
+    <lastmod>2025-03-01T04:09:03.186Z</lastmod>
+  </url>
+  <url>
     <loc>https://xsucr.github.io/xs0124/about.html</loc>
     <lastmod>2025-03-01T02:54:46.422Z</lastmod>
   </url>
   <url>
     <loc>https://xsucr.github.io/xs0124/index.html</loc>
     <lastmod>2025-03-01T02:54:46.423Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xsucr.github.io/xs0124/clases/index.html</loc>
+    <lastmod>2025-03-01T04:09:03.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xsucr.github.io/xs0124/clases/semana_2.html</loc>
+    <lastmod>2025-03-01T04:09:03.186Z</lastmod>
   </url>
 </urlset>

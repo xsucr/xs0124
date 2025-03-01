@@ -1,16 +1,52 @@
 [
   {
+    "objectID": "clases/semana_3.html",
+    "href": "clases/semana_3.html",
+    "title": "semana_3",
+    "section": "",
+    "text": "Volver arriba"
+  },
+  {
+    "objectID": "clases/semana_1.html",
+    "href": "clases/semana_1.html",
+    "title": "semana_1",
+    "section": "",
+    "text": "Volver arriba",
+    "crumbs": [
+      "Semana 1",
+      "semana_1"
+    ]
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Volver arriba"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "xs0124",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Volver arriba",
+    "crumbs": [
+      "Introducción",
+      "xs0124"
+    ]
+  },
+  {
+    "objectID": "clases/index.html",
+    "href": "clases/index.html",
+    "title": "Contenido del curso",
+    "section": "",
+    "text": "Volver arriba"
+  },
+  {
+    "objectID": "clases/semana_2.html",
+    "href": "clases/semana_2.html",
+    "title": "semana_2",
+    "section": "",
+    "text": "Volver arriba"
   }
 ]
