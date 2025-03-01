@@ -1,13 +1,24 @@
 project:
   type: website
 
+lang: es
 website:
-  title: "xs0124"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  bread-crumbs: true
+  back-to-top-navigation: true
+  page-footer: "Copyright 2021, Norah Jones" 
+  repo-url: https://github.com/xsucr/xs0124
+  repo-actions: [edit, source, issue]
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Introducción"
+        contents:
+          - index.qmd
+      - section: "Semana 1"
+        contents:
+          - clases/semana_1.qmd
+
 
 format:
   html:
